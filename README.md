@@ -1,6 +1,5 @@
 # Deep Dive into Kubernetes
 
-## Index of Content
 
 ### 1. Kubernetes Architecture
 
