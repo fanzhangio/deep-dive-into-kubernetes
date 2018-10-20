@@ -1,4 +1,4 @@
-# Internal and External Packages for Kubernetes
+# Kubernetes Internal and External Packages 
 
 Many people always come to confused about `Internal` and/or `External` packages refered in codebase or documents. I am writing an article to illustrate what the difference and how to use these two concepts. 
 
